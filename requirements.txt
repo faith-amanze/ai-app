@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+pyjwt
+bcrypt
+email-validator
+python-multipart
+httpx
+pytest
